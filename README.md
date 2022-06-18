@@ -9,5 +9,6 @@ Now, the lecturer can move on to the Generate Exam Mark Report page and that sea
 Then, the System Create bar chart and show all student ID and their marks. It’s easy to understand who’s get lowest mark, highest mark etc. 
 In the bottom section display all Student ID and their marks. When they click “download report” button download the student mark report pdf file. 
 
+<I used MERN Stack Development Method>
 
 ![Picture2](https://user-images.githubusercontent.com/88647558/174446280-a44abe2f-2c2e-4239-b101-9569fd639b50.jpg)
